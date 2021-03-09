@@ -1,0 +1,16 @@
+.about-title{
+    color: #f774c5;
+    color: palevioletred;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.card-details{
+    background: linear-gradient(45deg, lightpink, #f774c5);
+    padding: 30px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+
+
+}
